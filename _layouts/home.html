@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="post-title">Posts</h1>
+
+  {{ content }}
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <span class="post-meta">{{ post.date | date: date_format }}
+
+        {% if post.tags %} |
+        {% for tag in post.tags %}
+          <a class="post-tag" href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">{{ tag }}</a>
+        {% endfor %}
+        {% endif %}
+
+      </span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+        {{ post.excerpt | strip_html | lstrip | truncatewords: 40, "" }}<a href="{{ post.url | relative_url }}">&hellip; read more &raquo;</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  {% include prev_next.html prev_url=paginator.previous_page_path prev_text='Previous page' next_url=paginator.next_page_path next_text='Next page' %}
+
+</div>
