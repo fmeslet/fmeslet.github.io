@@ -32,7 +32,7 @@ gem "sass", "~> 3.7.4"
 
 gem "html-proofer"
 
-gem "nokogiri", "~> 1.10.7"
+gem "nokogiri", "~> 1.13.9"
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
