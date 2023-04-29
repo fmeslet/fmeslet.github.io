@@ -138,7 +138,7 @@ This post contains a subjective list of resources I've used to learn Artificial 
 [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) | [Materials](http://web.stanford.edu/class/cs234/CS234Win2019/index.html)  
 *Comment: Very complete Reinforcement Learning course with the concept of imitation learning.*  
 
-## 1.4 - Artifical Intelligence
+## 1.6 - Artifical Intelligence
 
 **Stanford - CS221: Artificial Intelligence Principles and Techniques - Autumn 2019**  
 [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) | [Materials](https://stanford-cs221.github.io/autumn2019/)  
@@ -152,7 +152,7 @@ This post contains a subjective list of resources I've used to learn Artificial 
 [Materials](https://deepgenerativemodels.github.io)  
 *Comment: Give the concepts and tools used by generative models in general such as : Generative Advsersarial Network (GAN), Variationnal Auto Encoders (VAE), Auto Encoder (AE).*   
 
-## 1.5 - Visualization
+## 1.7 - Visualization
 
 **Stanford - CS448B: Visualization - 2018**  
 [Materials](https://magrawala.github.io/cs448b-fa18/)  
@@ -208,7 +208,7 @@ This post contains a subjective list of resources I've used to learn Artificial 
 [Website](https://www.fun-mooc.fr/courses/course-v1:CNAM+01031+session02/about)     
 *Comment: Course on the fundamentals of deep learning, with a focus on computer vision.*
 
-## 2.2 - Artificial Intelligence
+## 2.3 - Artificial Intelligence
 
 **Google AI - Google crash course - 2020**  
 [Website](https://developers.google.com/machine-learning/crash-course/)     
@@ -274,7 +274,7 @@ This post contains a subjective list of resources I've used to learn Artificial 
 
 # 4 -  Books
 
-# 4.1 -  Machine Learning
+## 4.1 -  Machine Learning
 
 **Jerome H. Friedman / Robert Tibshirani / Trevor Hastie - The Elements of Statistical Learning  (Second edition) - 2001**  
 [Website](http://web.stanford.edu/~hastie/Papers/ESLII.pdf)  
@@ -304,7 +304,7 @@ This post contains a subjective list of resources I've used to learn Artificial 
 [Website](https://www.kaggle.com/general/320574)
 *Comment: Data analysis and machine learning book for competitive data science.*
 
-# 4.2 -  Deep Learning
+## 4.2 -  Deep Learning
 
 **Ian Goodfellow / Yoshua Bengio / Aaron Courville - Deep Learning - 2016**  
 [Website](https://www.deeplearningbook.org)  
@@ -318,13 +318,13 @@ This post contains a subjective list of resources I've used to learn Artificial 
 [Website](https://srdas.github.io/DLBook/)  
 *Comment: Great book for Deep Learning with all terms clearly explained.* 
 
-# 4.3 -  Reinforcement Learning
+## 4.3 -  Reinforcement Learning
 
 **Richard S. Sutton / Andrew G. Barto - Reinforcement Learning : an introduction (Second Edition) - 2018**  
 [Website](http://incompleteideas.net/book/the-book-2nd.html)  
 *Comment: Very comprehensive book on Reinforcement Learning. It's often used as a reference in a many Reinforcement Learning courses.*  
 
-# 4.4 -  Visualization
+## 4.4 -  Visualization
 
 **Cole Nussbaumer Knaflic - Storytelling with data - 2015**
 [Website](https://www.storytellingwithdata.com/)

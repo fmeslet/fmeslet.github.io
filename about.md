@@ -10,13 +10,16 @@ I am a PhD student in Artificial Intelligence applied to communication systems a
 
 # Publications
 
-**NeCSTGen : Génération de Trafic Réseau Réaliste par Apprentissage Profond - Cores 2023**   
+**NeCSTGen : Génération de Trafic Réseau Réaliste par Apprentissage Profond** 
+*Cores 2023*
 [Paper](https://hal.science/hal-04080848) | [Github](https://github.com/fmeslet/NeCSTGen) 
 
-**NeCSTGen: An approach For Realistic Network Traffic Generation Using Deep Learning - IEEE GLOBECOM 2022**   
+**NeCSTGen: An approach For Realistic Network Traffic Generation Using Deep Learning**
+*IEEE GLOBECOM 2022*
 [Paper](https://ieeexplore.ieee.org/document/10000731/) | [Github](https://github.com/fmeslet/NeCSTGen) 
 
-**SPPNet: An Appoach For Real-Time Encrypted Traffic Classification Using Deep Learning - IEEE GLOBECOM 2021**   
+**SPPNet: An Appoach For Real-Time Encrypted Traffic Classification Using Deep Learning**
+*IEEE GLOBECOM 2021*
 [Paper](https://ieeexplore.ieee.org/document/9686037) | [Github](https://github.com/fmeslet/SPPNet) 
 
 
