@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/articles/2020/09/08/how-to-learn-artificial-intelligence</loc>
-<lastmod>2020-09-08T22:13:27+02:00</lastmod>
+<loc>http://localhost:4000/projects/2020/09/29/intepretation-for-convolutional-neural-network</loc>
+<lastmod>2020-09-29T22:13:27+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles/2020/09/29/ressources-to-learn-artificial-intelligence.html</loc>
+<lastmod>2020-09-29T22:13:27+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>

@@ -1,1 +1,467 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-30T00:22:17+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Fabien Meslet-Millet</title><subtitle>Personnal blog where I will post articles, projects and others things around my passion : Artificial Intelligence.</subtitle><author><name>Fabien Meslet-Millet</name></author><entry><title type="html">How to learn Artificial Intelligence</title><link href="http://localhost:4000/articles/2020/09/08/how-to-learn-artificial-intelligence" rel="alternate" type="text/html" title="How to learn Artificial Intelligence" /><published>2020-09-08T22:13:27+02:00</published><updated>2020-09-08T22:13:27+02:00</updated><id>http://localhost:4000/articles/2020/09/08/how-to-learn-artificial-intelligence</id><content type="html" xml:base="http://localhost:4000/articles/2020/09/08/how-to-learn-artificial-intelligence">&lt;p&gt;In construction&lt;/p&gt;</content><author><name>Fabien Meslet-Millet</name></author><category term="articles" /><category term="Article" /><summary type="html">In construction</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-29T16:23:17+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Fabien Meslet-Millet</title><subtitle>Personnal blog where I will post articles, projects and others things around Artificial Intelligence and Machine Learning.</subtitle><author><name>Fabien Meslet-Millet</name></author><entry><title type="html">Interpretation For Convolutional Neural Networks (CNN)</title><link href="http://localhost:4000/projects/2020/09/29/intepretation-for-convolutional-neural-network" rel="alternate" type="text/html" title="Interpretation For Convolutional Neural Networks (CNN)" /><published>2020-09-29T22:13:27+02:00</published><updated>2020-09-29T22:13:27+02:00</updated><id>http://localhost:4000/projects/2020/09/29/intepretation-for-convolutional-neural-network</id><content type="html" xml:base="http://localhost:4000/projects/2020/09/29/intepretation-for-convolutional-neural-network">&lt;p&gt;In construction&lt;/p&gt;</content><author><name>Fabien Meslet-Millet</name></author><category term="projects" /><category term="Article" /><category term="Project" /></entry><entry><title type="html">Resources For Learning Artificial Intelligence</title><link href="http://localhost:4000/articles/2020/09/29/ressources-to-learn-artificial-intelligence.html" rel="alternate" type="text/html" title="Resources For Learning Artificial Intelligence" /><published>2020-09-29T22:13:27+02:00</published><updated>2020-09-29T22:13:27+02:00</updated><id>http://localhost:4000/articles/2020/09/29/ressources-to-learn-artificial-intelligence</id><content type="html" xml:base="http://localhost:4000/articles/2020/09/29/ressources-to-learn-artificial-intelligence.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#1---courses&quot; id=&quot;markdown-toc-1---courses&quot;&gt;1 - Courses&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#11---machine-learning&quot; id=&quot;markdown-toc-11---machine-learning&quot;&gt;1.1 - Machine Learning&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#12---deep-learning&quot; id=&quot;markdown-toc-12---deep-learning&quot;&gt;1.2 - Deep Learning&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#13---computer-vision&quot; id=&quot;markdown-toc-13---computer-vision&quot;&gt;1.3 - Computer Vision&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#14---natural-language-processing-nlp&quot; id=&quot;markdown-toc-14---natural-language-processing-nlp&quot;&gt;1.4 - Natural Language Processing (NLP)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#15---reinforcement-learning&quot; id=&quot;markdown-toc-15---reinforcement-learning&quot;&gt;1.5 - Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#14---artifical-intelligence&quot; id=&quot;markdown-toc-14---artifical-intelligence&quot;&gt;1.4 - Artifical Intelligence&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#15---visualization&quot; id=&quot;markdown-toc-15---visualization&quot;&gt;1.5 - Visualization&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#2---moocs&quot; id=&quot;markdown-toc-2---moocs&quot;&gt;2 - MOOCs&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#21---machine-learning&quot; id=&quot;markdown-toc-21---machine-learning&quot;&gt;2.1 - Machine Learning&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#22---deep-learning&quot; id=&quot;markdown-toc-22---deep-learning&quot;&gt;2.2 - Deep Learning&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#22---artificial-intelligence&quot; id=&quot;markdown-toc-22---artificial-intelligence&quot;&gt;2.2 - Artificial Intelligence&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#3---youtube&quot; id=&quot;markdown-toc-3---youtube&quot;&gt;3 - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#4----books&quot; id=&quot;markdown-toc-4----books&quot;&gt;4 -  Books&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#41----machine-learning&quot; id=&quot;markdown-toc-41----machine-learning&quot;&gt;4.1 -  Machine Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#42----deep-learning&quot; id=&quot;markdown-toc-42----deep-learning&quot;&gt;4.2 -  Deep Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#43----reinforcement-learning&quot; id=&quot;markdown-toc-43----reinforcement-learning&quot;&gt;4.3 -  Reinforcement Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#44----visualization&quot; id=&quot;markdown-toc-44----visualization&quot;&gt;4.4 -  Visualization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#5---blogs&quot; id=&quot;markdown-toc-5---blogs&quot;&gt;5 - Blogs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#6---others&quot; id=&quot;markdown-toc-6---others&quot;&gt;6 - Others&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This post contains a subjective list of resources I’ve used to learn artificial intelligence, machine learning, deep learning and reinforcement learning from scratch. There are several categories. Only the resources that were useful to me have been cited. There must be other resources available, so I will update it regularly according to my discoveries.&lt;/p&gt;
+
+&lt;h1 id=&quot;1---courses&quot;&gt;1 - Courses&lt;/h1&gt;
+
+&lt;h2 id=&quot;11---machine-learning&quot;&gt;1.1 - Machine Learning&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS229: Machine Learning (Andrew NG) - 2008&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://see.stanford.edu/Course/CS229/47&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;https://see.stanford.edu/Course/CS229/47&quot;&gt;Materials&lt;/a&gt; | &lt;a href=&quot;https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599&quot;&gt;YouTube&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Famous course from Andrew NG. It’s the same course as the one in Coursera but more complete.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS229: Machine Learning (Andrew NG) - Autumn 2018&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;http://cs229.stanford.edu/syllabus-autumn2018.html&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Famous course by Andrew NG. It’s the same course as the one on Coursera but more complete and updated. The notes are accessible via this link : &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://see.stanford.edu/materials/aimlcs229/cs229-notesX.pdf&lt;/code&gt; with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;X&lt;/code&gt; the note number.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS229: Machine Learning - Summer 2019&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;http://cs229.stanford.edu/syllabus-summer2019.html&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Famous course by Andrew NG. It’s the same course as the one on Coursera but more complete and updated.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS229M: Machine Learning - Autumn 2018&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;https://web.stanford.edu/class/stats214/&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Machine learning course with more focus on the mathematical part.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - EE104: Introduction to Machine Learning - 2020&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLoROMvodv4rN_Uy7_wmS051_q1d6akXmK&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;https://ee104.stanford.edu/&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Introduction to Machine learning.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS246: Mining Massive Data Sets - 2020&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLoCMsyE1cvdVnCgHk43vRy7PVTVWJ6WVR&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;http://web.stanford.edu/class/cs246/index.html&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: A complete course to learn how to use different types of data (graphs, texts, tables, …). You can access the course through the edX MOOC.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS224W: Machine Learning with Graphs - 2021&lt;/strong&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;http://web.stanford.edu/class/cs224w/&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Machine learning course focusing on graphs data.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;12---deep-learning&quot;&gt;1.2 - Deep Learning&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Deep Mind &amp;amp; UCL - Deep Learning Course - 2018&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;https://deepmind.com/learning-resources/reinforcement-learning-lectures-series-2018&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: An introduction to Deep Learning, taught by Deep Mind at University College of London.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deep Mind &amp;amp; UCL - Deep Learning Course - 2020&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;https://deepmind.com/learning-resources/deep-learning-lecture-series-2020&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Deeper version of the 2018 Deep Learning course from Deep Mind at University College of London.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS230: Deep Learning - Autumn 2018&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;https://cs230.stanford.edu/syllabus/&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Advanced Deep Learning course by Andrew NG that requires an understanding of the basics. This course must be taken in parallel with the Coursera Deep Learning specialization.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS330: Deep Multi-Task and Meta Learning - Autumn 2019&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;http://cs330.stanford.edu/fall2019/index.html&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Comprehensive course on Multitask and Meta-Learning.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS330: Deep Multi-Task and Meta Learning - Autumn 2020&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLoROMvodv4rOxuwpC_raecBCd5Jf54lEa&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;http://cs330.stanford.edu/fall2020/index.html&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Comprehensive course on Multitask and Meta-Learning.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS330: Deep Multi-Task and Meta Learning - Autumn 2021&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLoROMvodv4rMIJ-TvblAIkw28Wxi27B36&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;http://cs330.stanford.edu/fall2021/index.html&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Comprehensive course on Multitask and Meta-Learning&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS330: Deep Multi-Task and Meta Learning - Autumn 2022&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;http://cs330.stanford.edu/fall2022/index.html&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Comprehensive course on Multitask and Meta-Learning.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BayesGroup- Deep|Bayes Summer Schools - 2019&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;https://github.com/bayesgroup/deepbayes-2019&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Course focuses on probabilistic aspects of Deep Learning (GAN, VAE, Normalizing Flows, …) with exercices.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Massachusetts Institute of Technology (MIT) - Lex Fridman Deep Learning - 2020&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;https://deeplearning.mit.edu/&quot;&gt;Materials&lt;/a&gt; | &lt;a href=&quot;https://deeplearning.mit.edu&quot;&gt;Materials&lt;/a&gt;
+&lt;em&gt;Comment: Not really a structured courses but a collection of lectures that can provide useful information about Deep Learning.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York University (NYU) - Deep Learning (with PyTorch) - 2020&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;https://atcold.github.io/pytorch-Deep-Learning/&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Very complete course with notes and live exercises given by Yann LeCun and Alfredo Canziani at New York University.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York University (NYU) - Deep Learning (with PyTorch) - 2021&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;https://github.com/Atcold/NYU-DLSP21&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Very complete course with notes and live exercises given by Yann LeCun and Alfredo Canziani at New York University.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Berkeley - Deep Unsupervised Learning - 2020&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;https://sites.google.com/view/berkeley-cs294-158-sp20/home&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Complete course on generative model in various domains and also on self-supervised learning.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;College de France - Stephane Mallat&lt;/strong&gt; &lt;span style=&quot;color:red&quot;&gt;(French only)&lt;/span&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.college-de-france.fr/site/stephane-mallat/_course.htm&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Courses given by Stephane Mallat at College de France on various aspects of Deep Learning.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;College de France - Yann LeCun&lt;/strong&gt; &lt;span style=&quot;color:red&quot;&gt;(French only)&lt;/span&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.college-de-france.fr/site/yann-lecun/_course.htm&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Courses given by Yann LeCun at College de France on various aspects of Deep Learning.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;13---computer-vision&quot;&gt;1.3 - Computer Vision&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - C231n Computer Vision - 2017&lt;/strong&gt;  &lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;http://cs231n.stanford.edu/2017/&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Full course on the application of Deep Learning to Computer Vision. One of the speakers is Ian Goodfellow, creator of GAN (Generative Adversarial Network).&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;14---natural-language-processing-nlp&quot;&gt;1.4 - Natural Language Processing (NLP)&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS224N: NLP with Deep Learning - Winter 2019&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;http://web.stanford.edu/class/cs224n/index.html#schedule&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Full course about application of Deep Learning to Natural Language Processing. One of the speakers is involved in the creation of the Transformer network.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS224N: NLP with Deep Learning - Winter 2021&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=rmVRLeJRkl4&amp;amp;list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;http://web.stanford.edu/class/cs224n/&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Complete course about application of Deep Learning to Natural Language Processing. One of the speakers is involved in the creation of the Transformer network.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS224u: Natural Language Understanding - 2019&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;https://web.stanford.edu/class/cs224u/2019/&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Useful course if you want to go deeper into Natural Language Processing (NLP). It’s is complementary to the CS224N Stanford course.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;15---reinforcement-learning&quot;&gt;1.5 - Reinforcement Learning&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;David Silver - Introduction to Reinforcement learning - 2015&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;https://www.davidsilver.uk/teaching/&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Famous course taught by David Silver on Reinforcement Learning based on the book by Sutton and Burton.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deep Mind &amp;amp; UCL - Reinforcement Learning Course - 2018&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;https://hadovanhasselt.com/2016/01/12/ucl-course/&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Reinforcement Learning course given by Deep Mind (Hado van Hasselt). It’s an updated version of David Silver’s course with additional speakers.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS234: Reinforcement Learning - Winter 2019&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;http://web.stanford.edu/class/cs234/CS234Win2019/index.html&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Very complete Reinforcement Learning course with the concept of imitation learning.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;14---artifical-intelligence&quot;&gt;1.4 - Artifical Intelligence&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS221: Artificial Intelligence Principles and Techniques - Autumn 2019&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;https://stanford-cs221.github.io/autumn2019/&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: You will see all the basics of Artificial Intelligence throw simple examples.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS221: Artificial Intelligence Principles and Techniques - Autumn 2021&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=ZiwogMtbjr4&amp;amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2&quot;&gt;Videos&lt;/a&gt; | &lt;a href=&quot;https://stanford-cs221.github.io/autumn2021/&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: You will see all the basics of Artificial Intelligence throw simple examples.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS236: Deep Generative Models - 2019&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://deepgenerativemodels.github.io&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Give the concepts and tools used by generative models in general such as : Generative Advsersarial Network (GAN), Variationnal Auto Encoders (VAE), Auto Encoder (AE).&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;15---visualization&quot;&gt;1.5 - Visualization&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS448B: Visualization - 2018&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://magrawala.github.io/cs448b-fa18/&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Provide a very good basis for data visualization.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford - CS448B: Visualization - 2020&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://magrawala.github.io/cs448b-fa20/&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Provide a very good basis for data visualization.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;2---moocs&quot;&gt;2 - MOOCs&lt;/h1&gt;
+
+&lt;h2 id=&quot;21---machine-learning&quot;&gt;2.1 - Machine Learning&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Coursera - Andrew NG: Machine Learning - 2019&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.coursera.org/learn/machine-learning&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Famous course by Andrew NG. It’s a condensed version of the course CS229 (2008 version) given at Stanford.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coursera - HSC: How to Win a Data Science Competition - 2019&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.coursera.org/learn/competitive-data-science&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Provides tools for practical Machine Learning and explains the difference between practical Machine Learning and competition.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;EdX - Stanford: Statistical Learning - 2019&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.edx.org/course/statistical-learning&quot;&gt;Materials&lt;/a&gt; | &lt;a href=&quot;https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e&quot;&gt;YouTube&lt;/a&gt; 
+&lt;em&gt;Comment: Explains the statistical concept behind the Machine Learning algorithms and how to apply it.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Edx - Stanford: Mining Massive Data Sets - 2019&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;http://web.stanford.edu/class/cs246/index.html&quot;&gt;Materials&lt;/a&gt; | &lt;a href=&quot;https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV&quot;&gt;YouTube&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Equivalent to CS246 Stanford course Mining Massive Dataset.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FunMOOC - MinesTelecom: Statistique pour l’ingénieur - 2020&lt;/strong&gt; &lt;span style=&quot;color:red&quot;&gt;(French only)&lt;/span&gt;&lt;br /&gt;
+&lt;a href=&quot;http://web.stanford.edu/class/cs246/index.html&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Equivalent to CS246 course Mining Massive Dataset. New sessions are added regularly so check back to see if new sessions are available.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FunMOOC - AgroCampus Ouest: Analyse des données multidimensionnelles - 2020&lt;/strong&gt; &lt;span style=&quot;color:red&quot;&gt;(French only)&lt;/span&gt;&lt;br /&gt;
+&lt;a href=&quot;http://web.stanford.edu/class/cs246/index.html&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Explains the statistical notion of using tabular, multidimensional data that we face in machine learning for exploratory data analysis or modeling. New sessions are added regularly, so check back to see if new sessions are available.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FunMOOC - Institut Mines-Telecom: Fundamentals for Big Data&lt;/strong&gt; &lt;span style=&quot;color:red&quot;&gt;(French only)&lt;/span&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.fun-mooc.fr/courses/course-v1:MinesTelecom+04006+session10/about&quot;&gt;Website&lt;/a&gt;   &lt;br /&gt;
+&lt;em&gt;Comment: Presents the mathematical foundations we need to get started with machine learning. New sessions are added regularly, so check back to see if new sessions are available.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;OpenClassroom specialization in Data Science&lt;/strong&gt; &lt;span style=&quot;color:red&quot;&gt;(French only)&lt;/span&gt; &lt;br /&gt;
+&lt;a href=&quot;https://openclassrooms.com/fr/paths/164-data-scientist#main_content&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Courses on different aspects of data science. You can take each course of the specialisation independently for free.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;22---deep-learning&quot;&gt;2.2 - Deep Learning&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Coursera - DeepLearning.AI: Deep Learning Specialization&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.coursera.org/specializations/deep-learning&quot;&gt;Materials&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Famous course by Andrew NG. This specialization is given to Stanford students in parallel with the CS230 Stanford course. It’s a specialization, but you can take each course independently for free.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CNAM - Deep Learning - 2019&lt;/strong&gt; &lt;span style=&quot;color:red&quot;&gt;(French only)&lt;/span&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.fun-mooc.fr/courses/course-v1:CNAM+01031+session02/about&quot;&gt;Website&lt;/a&gt;   &lt;br /&gt;
+&lt;em&gt;Comment: Course on the fundamentals of deep learning, with a focus on computer vision.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;22---artificial-intelligence&quot;&gt;2.2 - Artificial Intelligence&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Google AI - Google crash course - 2020&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://developers.google.com/machine-learning/crash-course/&quot;&gt;Website&lt;/a&gt;   &lt;br /&gt;
+&lt;em&gt;Comment: A short course to fully understand Machine Learning. It’s very complete and you’ll find a glossary.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;University Cote d’Azur - Python 3 : from fundamentals to the advanced concept of languages - 2020&lt;/strong&gt; &lt;span style=&quot;color:red&quot;&gt;(French only)&lt;/span&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/about&quot;&gt;Website&lt;/a&gt;   &lt;br /&gt;
+&lt;em&gt;Comment: New sessions are added regularly, so check back to see if new sessions are available.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;3---youtube&quot;&gt;3 - YouTube&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;3Blue1Brown - 2015&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/c/3blue1brown/featured&quot;&gt;YouTube channel&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Perfect animations for intuitive understanding of mathematical concepts. I recommend the video series &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Essence of Linear Algebra&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Essence of Calculus&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Neural Networks&lt;/code&gt; to make sure you clearly understand essential tools for artificial intelligence.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;StatQuest with Josh Starmer - 2011&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/c/joshstarmer/featured&quot;&gt;YouTube channel&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Great channel to get a visual explanation of many concepts in Machine Learning.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Serrano.Academy - 2013&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/@SerranoAcademy/featured&quot;&gt;YouTube channel&lt;/a&gt; 
+&lt;em&gt;Comment: Great channel to get a visual explanation of many concepts in Machine Learning.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;mathematicalmonk - 2011&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/user/mathematicalmonk&quot;&gt;YouTube channel&lt;/a&gt; &lt;br /&gt;
+&lt;em&gt;Comment: Great statistics course that covers a lot of Machine Learning concepts. See the Machine Learning playlist.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ox educ - 2014&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/channel/UCkQXyTRPtdbZKcggIozIpyw&quot;&gt;YouTube channel&lt;/a&gt; &lt;br /&gt;
+&lt;em&gt;Comment: Great statistics course that covers a lot of Machine Learning concepts. See the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bayesian statistics: a comprehensive course&lt;/code&gt; playlist.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ben Lambert - 2011&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/user/SpartacanUsuals&quot;&gt;YouTube channel&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Give a great statistics course where a lot of Machine Learning concepts are approached. See &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;A Student's Guide to Bayesian Statistics&lt;/code&gt; playlist.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Yannic Kilcher - 2013&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/c/YannicKilcher/featured&quot;&gt;YouTube channel&lt;/a&gt; &lt;br /&gt;
+&lt;em&gt;Comment: Read and explain really interesting papers in Artificial Intelligence.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Massachusetts Institute of Technology (MIT) - Lex Fridman - 2006&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/c/lexfridman/playlists&quot;&gt;YouTube channel&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: His podcasts are very interesting and the guests are experts in the field of Artificial Intelligence.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Two Minutes Paper - 2019&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg&quot;&gt;YouTube channel&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: A great YouTube channel that talks about new advances in Artificial Intelligence in short videos.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;University of Wagshington - Paul G. Allen School - 2006&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&amp;amp;sort=dd&amp;amp;view=50&quot;&gt;YouTube channel&lt;/a&gt; &lt;br /&gt;
+&lt;em&gt;Comment: Various courses on Machine Learning clearly explained.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;University of Washington - Jeff Heaton - 2006&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/user/HeatonResearch/playlists&quot;&gt;YouTube channel&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Great series of playlists about different aspects of Deep Learning (course, deployment, graphics, …).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DeepLearning.AI - 2017&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/@Deeplearningai&quot;&gt;YouTube channel&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: DeepLearning.AI was founded in 2017 by machine learning and education pioneer Andrew Ng to fill a need for world-class AI education. You can find the videos from Coursera programs on machine learning as well as recorded events.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;University of Washington - Colins Reckons - 2011&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9&quot;&gt;YouTube channel&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: This course was available on Coursera. It allows to understand all the concept about Neural Network and some history about.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;4----books&quot;&gt;4 -  Books&lt;/h1&gt;
+
+&lt;h1 id=&quot;41----machine-learning&quot;&gt;4.1 -  Machine Learning&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Jerome H. Friedman / Robert Tibshirani / Trevor Hastie - The Elements of Statistical Learning  (Second edition) - 2001&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;http://web.stanford.edu/~hastie/Papers/ESLII.pdf&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: A book which goes with the Statistical Learning course. It abort all the statistical concepts we need to know for practicing Machine Learning.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gareth James / Daniela Witten / Trevor Hastie / Robert Tibshirani - An introduction to Statistical Learning - 2021&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.statlearning.com/&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: A condensed version of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;The Elements of Statistical Learning&lt;/code&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cam Davidson-Pilon - Probabilistic Programming &amp;amp; Bayesian Methods for Hackers - 2015&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/#contents&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Great high-level overview of probabilistic notion from an atypical perspective.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jure Leskovec / Anand Rajaraman / Jeffrey D. Ullman - Mining Massive Dataset - 2014&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.mmds.org&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: A complete book on how to extract information from various types of data (graph, tabular, …).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Christoph Molnar - Interpretable Machine Learning - 2022&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://christophm.github.io/interpretable-ml-book/&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: A Guide for making black box models explainable.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chester Ismay / Albert Y. Kim - Statistical Inference via Data Science - 2022&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://christophm.github.io/interpretable-ml-book/&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: A ModernDive into R and the Tidyverse. Good explanation for hypothesis testing.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Konrad Banachewicz / Luca Massaron - The Kaggle Book - 2022&lt;/strong&gt;
+&lt;a href=&quot;https://www.kaggle.com/general/320574&quot;&gt;Website&lt;/a&gt;
+&lt;em&gt;Comment: Data analysis and machine learning book for competitive data science.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;42----deep-learning&quot;&gt;4.2 -  Deep Learning&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Ian Goodfellow / Yoshua Bengio / Aaron Courville - Deep Learning - 2016&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.deeplearningbook.org&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: All the notion we need to know to start Deep Learning are in this book.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jake VanderPlas - Python Data Science Handbook - 2019&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://jakevdp.github.io/PythonDataScienceHandbook/index.html&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Book oriented practice for using Python in Machine Learning. All the libraries are explained with examples and code.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Subir Varma / Sanjiv Das - Deep Learning - 2018&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://srdas.github.io/DLBook/&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Great book for Deep Learning with all terms clearly explained.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;43----reinforcement-learning&quot;&gt;4.3 -  Reinforcement Learning&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Richard S. Sutton / Andrew G. Barto - Reinforcement Learning : an introduction (Second Edition) - 2018&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;http://incompleteideas.net/book/the-book-2nd.html&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Very comprehensive book on Reinforcement Learning. It’s often used as a reference in a many Reinforcement Learning courses.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;44----visualization&quot;&gt;4.4 -  Visualization&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Cole Nussbaumer Knaflic - Storytelling with data - 2015&lt;/strong&gt;
+&lt;a href=&quot;https://www.storytellingwithdata.com/&quot;&gt;Website&lt;/a&gt;
+&lt;em&gt;Comment: Very comprehensive book on data visualization.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;5---blogs&quot;&gt;5 - Blogs&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Hadrien Jean&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://hadrienj.github.io&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Excellent blog to clearly understand the basic concept before reading Deep Learning book.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Shervine Amidi&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://stanford.edu/~shervine/&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Nice cheat sheet for Stanford courses.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jason Brownlee - Machine Learning Mastery&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://machinelearningmastery.com&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Contains code with clear explanations about various areas of Artificial Intelligence.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lilian Weng&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://lilianweng.github.io/lil-log/&quot;&gt;Website&lt;/a&gt; &lt;br /&gt;
+&lt;em&gt;Comment: Blog with posts on various concepts clearly explained.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Andrew Karpathy&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;http://karpathy.github.io&quot;&gt;Website&lt;/a&gt; &lt;br /&gt;
+&lt;em&gt;Comment: Blog of Andrew Karpathy.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Google AI&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://ai.googleblog.com&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Blog of Google Artificial Intelligence Research.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Apple AI&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://machinelearning.apple.com&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment : Blog of Apple Artificial Intelligence Research.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Facebook AI&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://ai.facebook.com/blog/&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment : Blog of Facebook Artificial Intelligence Research.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amazon AI&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.amazon.science/machine-learning&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment : Blog of Amazon Artificial Intelligence Research.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Uber AI Labs&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://eng.uber.com/category/articles/ai/&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment : Blog of Uber Artificial Intelligence Research.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Microsoft AI&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://blogs.microsoft.com/ai/&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment : Blog of Microsoft Artificial Intelligence Research.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Google DeepMind&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://deepmind.com/blog&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment : Blog of Google DeepMind Research.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;OpenAI&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://openai.com/blog/&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment : Blog of OpenAI Research.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DeepLearning.AI&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.deeplearning.ai/&quot;&gt;Website&lt;/a&gt;
+&lt;em&gt;Comment : Blog of DeepLearning.AI. List of all the very useful and complete DeepLearning.AI courses.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;6---others&quot;&gt;6 - Others&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Kaggle&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.kaggle.com&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: You will get access to competitions, datasets, and very practical and basic course on Python, Deep Learning, Machine Learning explainability, …&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Codalab&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://codalab.org&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Platform support by Stanford and Microsoft. You will also have the possibility to create private competition for free.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ENS Challenge Data&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://challengedata.ens.fr/&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Platform access to competitions.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MIT OpenCourseWare&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://ocw.mit.edu/index.htm&quot;&gt;Website&lt;/a&gt; | &lt;a href=&quot;https://www.youtube.com/user/MIT&quot;&gt;YouTube channel&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Free access to Massachusetts Institute of Technology courses.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stanford&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://online.stanford.edu/search-catalog&quot;&gt;Website&lt;/a&gt; | &lt;a href=&quot;https://ai.stanford.edu/courses/&quot;&gt;AI Courses&lt;/a&gt; | &lt;a href=&quot;https://www.youtube.com/user/stanfordonline&quot;&gt;YouTube channel&lt;/a&gt; &lt;br /&gt;
+&lt;em&gt;Comment: Free access to Stanford courses for free.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coursera&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;http://coursera.org&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Access to MOOCs from different universities around the world.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;edX&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.edx.org/&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Access to MOOCs from different universities around the world.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Khan Academy&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.khanacademy.org&quot;&gt;Website&lt;/a&gt; | &lt;a href=&quot;https://www.youtube.com/user/khanacademy&quot;&gt;YouTube channel&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Access to several free courses such as &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Multivariable calculus&lt;/code&gt; series by 3blue1Brown to visualise some mathematical concepts used in machine learning.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;OpenClassroom&lt;/strong&gt; &lt;span style=&quot;color:red&quot;&gt;(French only)&lt;/span&gt; &lt;br /&gt;
+&lt;a href=&quot;https://openclassrooms.com/fr/search?page=1&amp;amp;categories=Data&amp;amp;language=fr&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Same as Coursera with the top french university. They tend to offer more courses in english.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Draw Neural Network&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: List of different tools to draw neural network architectures.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Play with Neural Network with Tensorflow&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://playground.tensorflow.org/#activation=tanh&amp;amp;batchSize=10&amp;amp;dataset=circle&amp;amp;regDataset=reg-plane&amp;amp;learningRate=0.03&amp;amp;regularizationRate=0&amp;amp;noise=0&amp;amp;networkShape=4,2&amp;amp;seed=0.86137&amp;amp;showTestData=false&amp;amp;discretize=false&amp;amp;percTrainData=50&amp;amp;x=true&amp;amp;y=true&amp;amp;xTimesY=false&amp;amp;xSquared=false&amp;amp;ySquared=false&amp;amp;cosX=false&amp;amp;sinX=false&amp;amp;cosY=false&amp;amp;sinY=false&amp;amp;collectStats=false&amp;amp;problem=classification&amp;amp;initZero=false&amp;amp;hideText=false&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Visualization to understand how Neural Network work based on Tensorflow.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Play with GAN&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://poloclub.github.io/ganlab/&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Visualization for understanding GAN (Generative Adversarial Network) training.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Graph projection of research papers&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://backronym.xyz/graph.html&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Arip Asadulaev has built this tool to present hundreds of research papers together by cross-referencing research papers and methods.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Graph projection of research papers&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://backronym.xyz/graph.html&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Arip Asadulaev has built this tool to present hundreds of research papers together by cross-referencing research papers and methods.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data Visualization&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.data-to-viz.com/&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: From Data to Viz guides you to the most appropriate graph for your data. It links to the code to create it and lists common caveats to avoid.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data Centric AI&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/HazyResearch/data-centric-ai&quot;&gt;Website&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Comment: Useful list of resources on data centric AI.&lt;/em&gt;&lt;/p&gt;</content><author><name>Fabien Meslet-Millet</name></author><category term="articles" /><category term="Article" /><summary type="html">This post contains a subjective list of resources I’ve used to learn artificial intelligence, machine learning, deep learning and reinforcement learning from scratch. There are several categories. Only the resources that were useful to me have been cited. There must be other resources available, so I will update it regularly according to my discoveries.</summary></entry></feed>
