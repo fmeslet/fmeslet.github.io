@@ -81,7 +81,7 @@ This post contains a subjective list of resources I've used to learn Artificial 
 *Comment: Course focuses on probabilistic aspects of Deep Learning (GAN, VAE, Normalizing Flows, ...) with exercices.*    
 
 **Massachusetts Institute of Technology (MIT) - Lex Fridman Deep Learning - 2020**  
-[Videos](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) | [Materials](https://deeplearning.mit.edu/) | [Materials](https://deeplearning.mit.edu)
+[Videos](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) | [Materials](https://deeplearning.mit.edu/) | [Materials](https://deeplearning.mit.edu)  
 *Comment: Not really a structured courses but a collection of lectures that can provide useful information about Deep Learning.* 
 
 **New York University (NYU) - Deep Learning (with PyTorch) - 2020**  
@@ -229,7 +229,7 @@ This post contains a subjective list of resources I've used to learn Artificial 
 *Comment: Great channel to get a visual explanation of many concepts in Machine Learning.* 
 
 **Serrano.Academy - 2013**  
-[YouTube channel](https://www.youtube.com/@SerranoAcademy/featured) 
+[YouTube channel](https://www.youtube.com/@SerranoAcademy/featured)   
 *Comment: Great channel to get a visual explanation of many concepts in Machine Learning.* 
 
 **mathematicalmonk - 2011**  
@@ -385,7 +385,7 @@ This post contains a subjective list of resources I've used to learn Artificial 
 *Comment : Blog of OpenAI Research.* 
 
 **DeepLearning.AI**  
-[Website](https://www.deeplearning.ai/)
+[Website](https://www.deeplearning.ai/)  
 *Comment : Blog of DeepLearning.AI. List of all the very useful and complete DeepLearning.AI courses.* 
 
 # 6 - Others
