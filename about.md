@@ -10,6 +10,10 @@ I am a PhD student in Artificial Intelligence applied to communication systems a
 
 # Publications
 
+**DCH : Génération de Trafic Réseau Réaliste par Apprentissage Profond**  
+*[MSWIM 2023](https://mswimconf.com/2023/)*  
+[Paper](https://dl.acm.org/doi/10.1145/3616388.3617522) | [Github](https://github.com/fmeslet/DCH) 
+
 **NeCSTGen : Génération de Trafic Réseau Réaliste par Apprentissage Profond**  
 *[Cores 2023](https://coresalgotel2023.i3s.univ-cotedazur.fr/cores)*  
 [Paper](https://hal.science/hal-04080848) | [Github](https://github.com/fmeslet/NeCSTGen) 
