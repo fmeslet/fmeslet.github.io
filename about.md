@@ -6,7 +6,7 @@ permalink: /about/
 
 <!-- ![Fabien Meslet-Millet](../resources/me.jpg){:style="width: 200px; overflow: hidden; border-radius: 50%; float: right; padding-left: 20px"} -->
 
-I am a Data Scientist at [Airbus](https://www.irit.fr/) (Toulouse) in France.
+I am a Data Scientist at [Airbus]([https://www.irit.fr/](https://www.airbus.com/en)) (Toulouse) in France.
 
 # Publications
 
